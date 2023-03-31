@@ -19,7 +19,7 @@ bot = TelegramClient('bot', Var.api_id, Var.api_hash).start(bot_token=Var.token)
 
 joinMsg = """Hello Dear ❤️
 
-[+] For Using This Bot You must Join Channel {channelName}
+[+] For Using This Bot You must Join Channel {@SigmaMirrorz}
 [+] If u Left The Channel, Bot won't Work 😒
 [+] After Joining Channel, Come Back To Bot And Click On /start"""
 
@@ -31,7 +31,7 @@ genMsg = """𝙃𝙚𝙧𝙚 𝙄𝙨 𝙔𝙤𝙪𝙧 {account} 𝘼𝙘𝙘�
 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙚𝙙 𝘽𝙮: **{name}**
 
 𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙪𝙨𝙞𝙣𝙜 𝙢𝙚!
-❤️𝙎𝙝𝙖𝙧𝙚 & 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 **{channelName}**❤️"""
+❤️𝙎𝙝𝙖𝙧𝙚 & 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 **{@SigmaMirrorz}**❤️"""
 
 
 ####################################################################
